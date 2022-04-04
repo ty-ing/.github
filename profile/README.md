@@ -26,6 +26,6 @@ Tying (타잉)
 - 발표영상: 준비 중..
 - Organization Repository([바로가기](https://github.com/ty-ing))
 - Backend Repository([바로가기](https://github.com/ty-ing/ty-ing_BE))
-- Frontend Repository([바로가기]https://github.com/ty-ing/ty-ing_FE))
+- Frontend Repository([바로가기](https://github.com/ty-ing/ty-ing_FE))
 - Notion([바로가기](https://bit.ly/3K9RDgh))
 
