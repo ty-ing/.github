@@ -60,7 +60,7 @@ Tying (타잉)
 - 준비 중..
 </details>
 <details>
-<summary>API </summary>
+<summary>API 명세서</summary>
 - 준비 중..
 </details>
 
