@@ -13,6 +13,8 @@ Tying (타잉)
 |Name|GitHub|Position|
 |:---:|:---:|:---:|
 |용주성🔰|https://github.com/Tacocat3|Backend|
-|용주성🔰|https://github.com/Tacocat3|Backend|
-|용주성🔰|https://github.com/Tacocat3|Backend|
-|용주성🔰|https://github.com/Tacocat3|Backend|
+|김민정|https://github.com/minkimhere|Backend|
+|이노규|https://github.com/nklee6300|Backend|
+|정현수🔰|https://github.com/ricky0813|Frontend|
+|윤혜진|https://github.com/hyejin4169|Frontend|
+|김기덕|https://github.com/nikemaniaa1987|Frontend|
