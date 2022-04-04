@@ -10,7 +10,7 @@ Tying (타잉)
 - 2022/02/25 ~ 2022/04/08
 
 ## 👨‍💻👩‍💻 팀원 소개
-|Name|GitHub|Position|
+|Name|GitHub/Contact|Position|
 |:---:|:---:|:---:|
 |용주성🔰|https://github.com/Tacocat3|Backend|
 |김민정|https://github.com/minkimhere|Backend|
@@ -18,3 +18,5 @@ Tying (타잉)
 |정현수🔰|https://github.com/ricky0813|Frontend|
 |윤혜진|https://github.com/hyejin4169|Frontend|
 |김기덕|https://github.com/nikemaniaa1987|Frontend|
+|전소연|soy990417@naver.com|Design|
+|임승현|dkch7@naver.com|Design|
