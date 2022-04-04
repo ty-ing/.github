@@ -57,5 +57,9 @@ Tying (타잉)
 ## 📖 디테일
 <details>
 <summary>서비스 아키텍쳐</summary>
-- ㅎㅎ
+- 준비 중..
+</details>
+<details>
+<summary>API </summary>
+- 준비 중..
 </details>
