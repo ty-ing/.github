@@ -56,5 +56,6 @@ Tying (타잉)
 
 ## 📖 디테일
 <details>
-<summary></summary>
+<summary>서비스 아키텍쳐</summary>
+- ㅎㅎ
 </details>
