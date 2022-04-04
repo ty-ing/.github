@@ -22,7 +22,7 @@ Tying (타잉)
 |임승현|dkch7@naver.com|Design|
 
 ## 📌 링크
-- Website: https://ty-ing.com/
+- Website([바로가기](https://ty-ing.com/))
 - 발표영상: 준비 중..
 - Organization Repository: https://github.com/ty-ing
 - Backend Repository: https://github.com/ty-ing/ty-ing_BE
