@@ -63,3 +63,13 @@ Tying (타잉)
 <summary>API </summary>
 - 준비 중..
 </details>
+
+## ⚙️ Trouble Shooting
+<details>
+<summary>Backend</summary>
+- 준비 중..
+</details>
+<details>
+<summary>Frontend</summary>
+- 준비 중..
+</details>
