@@ -20,3 +20,12 @@ Tying (타잉)
 |김기덕|https://github.com/nikemaniaa1987|Frontend|
 |전소연|soy990417@naver.com|Design|
 |임승현|dkch7@naver.com|Design|
+
+## 📌 링크
+- Website: https://ty-ing.com/
+- 발표영상: 준비 중..
+- Organization Repository: https://github.com/ty-ing
+- Backend Repository: https://github.com/ty-ing/ty-ing_BE
+- Frontend Repository: https://github.com/ty-ing/ty-ing_FE
+- Notion: https://bit.ly/3K9RDgh
+
