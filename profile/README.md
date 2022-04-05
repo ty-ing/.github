@@ -31,7 +31,7 @@
 
 * * *
 
-## 💎 Core functions
+## 💎 Features
 - 준비 중..
 
 * * *
