@@ -21,7 +21,7 @@ Tying (타잉)
 |전소연|soy990417@naver.com|Design|
 |임승현|dkch7@naver.com|Design|
 
-## 📌 링크
+## 📌 Links
 - Website([바로가기](https://ty-ing.com/))
 - 발표영상: 준비 중..
 - Organization Repository([바로가기](https://github.com/ty-ing))
@@ -54,14 +54,16 @@ Tying (타잉)
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
-## 📖 디테일
+## 📖 More info
 <details>
 <summary>서비스 아키텍쳐</summary>
 - 준비 중..
 </details>
 <details>
 <summary>API 명세서</summary>
-- 준비 중..
+|Function|Method|URL|
+|:---:|:---:|:---:|
+|회원가입|POST|/api/signup
 </details>
 
 ## ⚙️ Trouble Shooting
