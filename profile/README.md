@@ -100,7 +100,9 @@
 <summary>API 명세서</summary>
 <p>
 |Name|GitHub/Contact|Position|
+  <p>
 |:---:|:---:|:---:|
+    <p>
 |정현수🔰|https://github.com/ricky0813|Frontend|
 <p>
 </details>
