@@ -42,7 +42,7 @@
 </details>
 
 <details>
-<summary><strong>📃 스크립트 필터링 및 저장 & 검색</strong></summary>
+<summary><strong>🔎 스크립트 필터링 및 저장 & 검색</strong></summary>
 <br/>
   <ul>
 <li>스크립트 필터링을 통해 <strong>원하는 조건의 스크립트를 선택</strong>하여 타이핑할 수도 있습니다.
@@ -52,7 +52,7 @@
 </details>
 
 <details>
-<summary><strong>🔎 다양한 학습 도우미 서비스</strong></summary>
+<summary><strong>🤝 다양한 학습 도우미 서비스</strong></summary>
 <br/>
   <ul>
 <li><strong>번역 기능</strong>을 사용하여 즉시 모르는 단어나 문장의 한글 뜻을 확인할 수 있습니다.
