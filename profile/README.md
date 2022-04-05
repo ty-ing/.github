@@ -132,7 +132,7 @@
 |단어 뜻 불러오기(게스트용)|GET|/opendict/guest/:scriptId/:word|
 |단어 뜻 불러오기(로그인사용자)|GET|/opendict/user/:scriptId/:word|
 |단어 뜻 수정하기(본인이 작성한 것만 수정가능)|PUT|/opendict/:scriptId/:word/:wordId|
-|단어 뜻 삭제하기(본인이 작성한 것만 삭제가능)|DELETE|/opendict/:scriptId/:wordId|
+|단어 뜻 삭제하기(본인이 작성한 것만 삭제가능)|DELETE|/opendict/:scriptId/:word/:wordId|
 |좋아요 누르기|PUT|/likeDislike/likeUp/:scriptId/:wordId|
 |좋아요 취소|PUT|/likeDislike/likeDown/:scriptId/:wordId|
 |좋아요 조회|GET|/likeDislike/like/:scriptId/:wordId|
