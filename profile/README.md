@@ -63,7 +63,7 @@ Tying (타잉)
 <summary>API 명세서</summary>
 |Function|Method|URL|
 |:---:|:---:|:---:|
-|회원가입|POST|/api/signup
+|회원가입|POST|/api/signup|
 </details>
 
 ## ⚙️ Trouble Shooting
