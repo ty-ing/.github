@@ -98,13 +98,12 @@
 </details>
 <details>
 <summary>API 명세서</summary>
-<p>
+<div markdown="1">
 |Name|GitHub/Contact|Position|
-  <p>
 |:---:|:---:|:---:|
-    <p>
 |정현수🔰|https://github.com/ricky0813|Frontend|
-<p>
+</div>
+- 준비 중..
 </details>
 
 * * *
