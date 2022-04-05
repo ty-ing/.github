@@ -123,11 +123,11 @@
 
 ## 📖 More info
 <details>
-<summary>서비스 아키텍쳐</summary>
+<summary><strong>서비스 아키텍쳐</strong></summary>
 - 준비 중..
 </details>
 <details>
-<summary>API 명세서</summary>
+<summary><strong>API 명세서</strong></summary>
 <div markdown="1">
 
 |Fuction|Method|URL|
@@ -175,10 +175,10 @@
 
 ## 🔥 Trouble Shooting
 <details>
-<summary>Frontend</summary>
+<summary><strong>Frontend</strong></summary>
 - 준비 중..
 </details>
 <details>
-<summary>Backend</summary>
+<summary><strong>Backend</strong></summary>
 - 준비 중..
 </details>
