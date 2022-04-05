@@ -28,7 +28,7 @@
 - [Frontend Repository](https://github.com/ty-ing/ty-ing_FE)
 - [Notion Page](https://bit.ly/3K9RDgh)
 
-### 💻 주요기능
+### 💎 주요기능
 - 준비 중..
 
 ## 🛠 기술 스택
