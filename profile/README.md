@@ -98,7 +98,11 @@
 </details>
 <details>
 <summary>API 명세서</summary>
-- 준비 중..
+<p>
+|Name|GitHub/Contact|Position|
+|:---:|:---:|:---:|
+|정현수🔰|https://github.com/ricky0813|Frontend|
+<p>
 </details>
 
 * * *
