@@ -20,12 +20,12 @@
 |임승현|dkch7@naver.com|Design|
 
 ## 📌 Links
-- ([Website](https://ty-ing.com/))
+- [Website](https://ty-ing.com/)
 - 발표영상: 준비 중..
-- Organization Repository([바로가기](https://github.com/ty-ing))
-- Backend Repository([바로가기](https://github.com/ty-ing/ty-ing_BE))
-- Frontend Repository([바로가기](https://github.com/ty-ing/ty-ing_FE))
-- Notion([바로가기](https://bit.ly/3K9RDgh))
+- [Organization GitHub](https://github.com/ty-ing)
+- [Backend Repository](https://github.com/ty-ing/ty-ing_BE)
+- [Frontend Repository](https://github.com/ty-ing/ty-ing_FE)
+- [Notion Page](https://bit.ly/3K9RDgh)
 
 ## 💻 주요기능
 - 준비 중..
@@ -59,14 +59,14 @@
 </details>
 <details>
 <summary>API 명세서</summary>
-</br>
-|Function|Method|URL|
-|:---:|:---:|:---:|
-|회원가입|POST|/api/signup|
-</br>
+- 준비 중..
+</details>
+<details>
+<summary>와이어프레임</summary>
+- 준비 중..
 </details>
 
-## ⚙️ Trouble Shooting
+## 🔥 Trouble Shooting
 <details>
 <summary>Backend</summary>
 - 준비 중..
