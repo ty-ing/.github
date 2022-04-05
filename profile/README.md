@@ -94,10 +94,6 @@
 <summary>API 명세서</summary>
 - 준비 중..
 </details>
-<details>
-<summary>와이어프레임</summary>
-- 준비 중..
-</details>
 
 * * *
 
