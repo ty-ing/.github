@@ -10,12 +10,12 @@
 ## 👨‍💻👩‍💻 팀원 소개
 |Name|GitHub/Contact|Position|
 |:---:|:---:|:---:|
-|용주성🔰|https://github.com/Tacocat3|Backend|
-|김민정|https://github.com/minkimhere|Backend|
-|이노규|https://github.com/nklee6300|Backend|
 |정현수🔰|https://github.com/ricky0813|Frontend|
 |윤혜진|https://github.com/hyejin4169|Frontend|
 |김기덕|https://github.com/nikemaniaa1987|Frontend|
+|용주성🔰|https://github.com/Tacocat3|Backend|
+|김민정|https://github.com/minkimhere|Backend|
+|이노규|https://github.com/nklee6300|Backend|
 |전소연|soy990417@naver.com|Design|
 |임승현|dkch7@naver.com|Design|
 
@@ -31,7 +31,6 @@
 - 준비 중..
 
 ## 🛠 기술 스택
-### Backend
 ### Frontend
 <p align="center">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -52,6 +51,8 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
+### Backend
+
 ## 📖 More info
 <details>
 <summary>서비스 아키텍쳐</summary>
@@ -68,10 +69,10 @@
 
 ## 🔥 Trouble Shooting
 <details>
-<summary>Backend</summary>
+<summary>Frontend</summary>
 - 준비 중..
 </details>
 <details>
-<summary>Frontend</summary>
+<summary>Backend</summary>
 - 준비 중..
 </details>
