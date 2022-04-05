@@ -97,13 +97,13 @@
 - 준비 중..
 </details>
 <details>
-<summary>접기/펼치기 버튼</summary>
+<summary>API 명세서</summary>
 <div markdown="1">
 
-|제목|내용|
-|--|--|
-|1|1|
-|2|10|
+|Fuction|Method|URL|
+|:---:|:---:|:---:|
+|회원가입|POST|/api/signup|
+|아이디 중복검사|POST|/api/signup/idCheck|
 
 </div>
 </details>
