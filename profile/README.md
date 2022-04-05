@@ -97,13 +97,15 @@
 - 준비 중..
 </details>
 <details>
-<summary>API 명세서</summary>
->
-```
-|Name|GitHub/Contact|Position|
-|:---:|:---:|:---:|
-|정현수🔰|https://github.com/ricky0813|Frontend|
-```
+<summary>접기/펼치기 버튼</summary>
+<div markdown="1">
+
+|제목|내용|
+|--|--|
+|1|1|
+|2|10|
+
+</div>
 </details>
 
 * * *
