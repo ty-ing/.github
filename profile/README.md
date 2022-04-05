@@ -20,7 +20,7 @@
 |임승현|dkch7@naver.com|Design|
 
 ## 📌 Links
-- Website([바로가기](https://ty-ing.com/))
+- ([Website](https://ty-ing.com/))
 - 발표영상: 준비 중..
 - Organization Repository([바로가기](https://github.com/ty-ing))
 - Backend Repository([바로가기](https://github.com/ty-ing/ty-ing_BE))
