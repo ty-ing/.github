@@ -33,7 +33,7 @@
 
 ## 💎 Core Features
 <details>
-<summary><strong>✨ 모범 답안, 다양한 아티클을 활용한 타이핑 연습</strong></summary>
+<summary><strong>💻 모범 답안, 다양한 아티클을 활용한 타이핑 연습</strong></summary>
 <br/>
   <ul>
 <li>대표적인 컴퓨터 기반 국제 영어 시험인 토플 및 아이엘츠 <strong>모범 답안</strong>과 <strong>다양한 아티클</strong>들을 타이핑 지문으로 제공합니다.
