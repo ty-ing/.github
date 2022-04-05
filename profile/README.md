@@ -104,7 +104,40 @@
 |:---:|:---:|:---:|
 |회원가입|POST|/api/signup|
 |아이디 중복검사|POST|/api/signup/idCheck|
-
+|닉네임 중복검사|POST|/api/signup/nicknameCheck|
+|로그인|POST|/api/login|
+|카카오 로그인 서버 인증|GET|/auth/kakao|
+|카카오 로그인 토큰 발급|GET|/api/kakao/callback?code=${code}|
+|로그인 여부 확인|GET|/api/auth|
+|회원정보 변경(일반로그인&카카오)|PUT|/api/info|
+|마이페이지(통계)|GET|/api/mypage/statistic|
+|마이페이지(인증서)|GET|/api/mypage/certificate|
+|마이페이지(인증서 상세보기)|GET|/api/mypage/certificate/:certificateId/:scriptId|
+|키워드 검색|GET|/api/script/search?page=${number}&targetWord=${word}|
+|스크립트 필터로 불러오기|GET|api/script/list?scriptCategory=${category}&scriptTopic=${topic}&page=${number}&myscript=ok|
+|카테고리 선택 후 랜덤 타이핑 시작|GET|/api/script/:scriptType/:scriptCategory/|
+|스크립트|GET|/api/detail/:scriptId|
+|나만의 스크립트 등록 여부 조회|GET|/api/myScript/:scriptId|
+|나만의 스크립트 등록|POST|/api/myScript/:scriptId|
+|나만의 스크립트 삭제|DELETE|/api/myScript/:scriptId|
+|결과 저장하기|POST|/api/studyrecord|
+|단어 뜻 작성하기|POST|/opendict/:scriptId/:word|
+|단어 뜻 불러오기(게스트용)|GET|/opendict/guest/:scriptId/:word|
+|단어 뜻 불러오기(로그인사용자)|GET|/opendict/user/:scriptId/:word|
+|단어 뜻 수정하기(본인이 작성한 것만 수정가능)|PUT|/opendict/:scriptId/:word/:wordId|
+|단어 뜻 삭제하기(본인이 작성한 것만 삭제가능)|DELETE|/opendict/:scriptId/:wordId|
+|좋아요 누르기|PUT|/likeDislike/likeUp/:scriptId/:wordId|
+|좋아요 취소|PUT|/likeDislike/likeDown/:scriptId/:wordId|
+|좋아요 조회|GET|/likeDislike/like/:scriptId/:wordId|
+|싫어요 누르기|PUT|/likeDislike/dislikeUp/:scriptId/:wordId|
+|싫어요 취소|PUT|/likeDislike/dislikeDown/:scriptId/:wordId|
+|싫어요 조회|GET|/likeDislike/dislike/:scriptId/:wordId|
+|단어 저장하기|POST|/mydict/:scriptId/:word|
+|단어 조회하기(최신순 4개만)|GET|/mydict/some|
+|단어 조회하기(전체 조회)|GET|/mydict/all|
+|단어 삭제하기|DELETE|/mydict/:scriptId/:word|
+|스크립트 저장하기|POST|/api/script|
+  
 </div>
 </details>
 
