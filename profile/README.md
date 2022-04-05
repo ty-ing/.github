@@ -25,9 +25,8 @@
 ### 📌 Links
 - [Website](https://ty-ing.com/)
 - 발표영상: 준비 중..
-- [Organization GitHub](https://github.com/ty-ing)
-- [Backend Repository](https://github.com/ty-ing/ty-ing_BE)
 - [Frontend Repository](https://github.com/ty-ing/ty-ing_FE)
+- [Backend Repository](https://github.com/ty-ing/ty-ing_BE)
 - [Notion Page](https://bit.ly/3K9RDgh)
 
 * * *
