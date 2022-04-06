@@ -59,7 +59,7 @@
 </details>
 
 <details>
-<summary><strong>🤝 다양한 학습 도우미 서비스</strong></summary>
+<summary><strong>💡 다양한 학습 도우미 서비스</strong></summary>
 <br/>
   <ul>
 <li><strong>번역 기능</strong>을 사용하여 즉시 모르는 단어나 문장의 한글 뜻을 확인할 수 있습니다.
