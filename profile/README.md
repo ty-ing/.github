@@ -136,7 +136,7 @@
 ## 📖 More info
 <details markdown="1">
 <summary><strong>서비스 아키텍쳐</strong></summary>
-<img src="https://imagedelivery.net/v7-TZByhOiJbNM9RaUdzSA/41bb6c0c-152c-4af3-ea17-e51faa6d6400/public">
+<img src="https://imagedelivery.net/v7-TZByhOiJbNM9RaUdzSA/d916f3d8-2022-4e80-5002-25add504ca00/public">
 </details>
 <details>
 <summary><strong>API 명세서</strong></summary>
