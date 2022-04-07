@@ -31,7 +31,7 @@
 
 ### 📌 Links
 - [Website](https://ty-ing.com/)
-- 발표영상: 준비 중..
+- [Presentation Video](https://youtu.be/YajlOfB-aP8)
 - [Frontend Repository](https://github.com/ty-ing/ty-ing_FE)
 - [Backend Repository](https://github.com/ty-ing/ty-ing_BE)
 - [Notion Page](https://power-tilapia-e1d.notion.site/TYING-2fff56c26b5842cfb6620cf4e5c6c5be)
