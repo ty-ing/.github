@@ -5,7 +5,9 @@
 =============
 ## 🙌 Introduce Tying
 >“영어타자, 빠르지 않아도 괜찮아.”
-<br>타잉은 컴퓨터 기반 영어 시험 준비를 위한 영타 연습 서비스입니다.
+<br>타잉은 컴퓨터 기반 영어 시험 준비를 위한 영타 연습 서비스입니다.<br>
+<br><img src="https://velog.velcdn.com/images/hyejin4169/post/4752d8a3-b598-4086-b18d-7942a7f322e2/image.png">
+
 
 [![바로가기](https://imagedelivery.net/v7-TZByhOiJbNM9RaUdzSA/8d36b691-b8d4-48a2-b021-54b481b3ab00/public)](https://ty-ing.com/)
 
@@ -31,6 +33,7 @@
 
 ### 📌 Links
 - [Website](https://ty-ing.com/)
+- [Website Demo Video](https://youtu.be/hH-18nmtXbM)
 - [Video Presentation](https://youtu.be/YajlOfB-aP8)
 - [Frontend Repository](https://github.com/ty-ing/ty-ing_FE)
 - [Backend Repository](https://github.com/ty-ing/ty-ing_BE)
